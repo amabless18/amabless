@@ -10,7 +10,7 @@
     <link href="//fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <!--//google-fonts -->
     <!-- Template CSS -->
-    <link rel="stylesheet" href="/design/assets/css/style-starter.css">
+    <link rel="stylesheet" href="design/assets/css/style-starter.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 
